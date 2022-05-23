@@ -1,3 +1,3 @@
 # rust-internal-paste
-titanium cheats source leak, 
+titanium cheats source leak
 
